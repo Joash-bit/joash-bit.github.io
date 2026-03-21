@@ -1,6 +1,6 @@
 +++
 date = '2026-03-21T19:42:41+08:00'
-draft = true
+draft = false
 title = 'Ratatouille Review'
 cover = { image = "" }
 tags = ["Pixar", "Animation"]
