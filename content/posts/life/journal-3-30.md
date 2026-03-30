@@ -3,6 +3,7 @@ date = '2026-03-30T01:21:46+08:00'
 draft = false
 title = 'Journal 3 30'
 tags = ["日记", ]
+categories: ["life"]
 +++
 
 # 3.29一天日记
